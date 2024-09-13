@@ -1,0 +1,18 @@
+path: E:\py\ml\yolov8\works\dino-model
+train: images
+val: images
+
+nc: 11
+names: [
+"bigone",
+"bigthree",
+"bigtwo",
+"birdlow",
+"birdmid",
+"dino",
+"gameover",
+"highbird",
+"small1",
+"small2",
+"small3"
+]

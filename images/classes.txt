@@ -1,0 +1,11 @@
+bigone
+bigthree
+bigtwo
+birdlow
+birdmid
+dino
+gameover
+highbird
+small1
+small2
+small3

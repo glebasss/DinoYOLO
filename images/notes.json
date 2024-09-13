@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bigone"
+    },
+    {
+      "id": 1,
+      "name": "bigthree"
+    },
+    {
+      "id": 2,
+      "name": "bigtwo"
+    },
+    {
+      "id": 3,
+      "name": "birdlow"
+    },
+    {
+      "id": 4,
+      "name": "birdmid"
+    },
+    {
+      "id": 5,
+      "name": "dino"
+    },
+    {
+      "id": 6,
+      "name": "gameover"
+    },
+    {
+      "id": 7,
+      "name": "highbird"
+    },
+    {
+      "id": 8,
+      "name": "small1"
+    },
+    {
+      "id": 9,
+      "name": "small2"
+    },
+    {
+      "id": 10,
+      "name": "small3"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
